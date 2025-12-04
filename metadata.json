@@ -1,0 +1,7 @@
+{
+  "name": "BrandPulse",
+  "description": "AI-powered brand identity analysis tool that checks your brand's vital signs using visual analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
